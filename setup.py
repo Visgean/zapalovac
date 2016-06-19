@@ -11,7 +11,8 @@ setuptools.setup(
       'zapalovac'
     ],
     install_requires=[
-        'pyquery'
+        'pyquery',
+        'requests',
     ],
     license='MIT License',
     zip_safe=True,
