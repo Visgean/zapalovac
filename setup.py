@@ -7,7 +7,7 @@ setuptools.setup(
     author='Visgean Skeloru',
     author_email='me@visgean.me',
     url='https://github.com/Visgean/zapalovac',
-    packages=[
+    py_modules=[
       'zapalovac'
     ],
     install_requires=[
