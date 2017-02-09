@@ -7,5 +7,5 @@ Zapálení proběhne vždy s pravděpodobností 1/10.
 Cron nastavení:
 
 ```
-0 * * * * python3 zapalovac/zapolovac.py
+0 * * * * python3 zapalovac/zapalovac.py
 ```
